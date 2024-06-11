@@ -7,7 +7,7 @@
 
 - 🌱 I’m also a **Data Scientist**
 
-- 👨‍💻 My portfolio website [https://vsmidhun21.github.io/portfolio/](https://vsmidhun21.github.io/portfolio/)
+- 👨‍💻 My portfolio website [https://github.com/Ridwan-the-Analyst" class="btn ](https://github.com/Ridwan-the-Analyst" class="btn)
 
 - 💬 Ask me about **Excel, SQL, PowerBI, Python, R and Tableau**
 
