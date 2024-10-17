@@ -1,6 +1,6 @@
 
 var typed = new Typed(".text", {
-    strings: ["Data Analysis" , "Data Science" , "Freelancer", "Data Analysis Trainer"],
+    strings: ["Data Analysis", "Data Science", "and empowering others through data analysis training"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
